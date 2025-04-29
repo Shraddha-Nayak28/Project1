@@ -1,5 +1,5 @@
 
-# Dynamic Carbon Footprint Tracker for RideBuddy (Carbon Savings Calculator)
+# Dynamic Carbon Footprint Tracker 
 
 ## Description
 The Dynamic Carbon Footprint Tracker is a Python program that calculates carbon emissions and savings for a vehicle trip based on various
